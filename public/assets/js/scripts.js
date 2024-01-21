@@ -33,7 +33,7 @@ window.addEventListener('DOMContentLoaded', () => {
 				<br>
 				<ul class="list-inline text-center">
 					<li class="list-inline-item">
-						<a href="https://www.facebook.com/morningtonballetschool">
+						<a href="https://www.facebook.com/morningtonballetschool" target="_blank" rel="noopener noreferrer">
 							<span class="fa-stack fa-lg">
 								<i class="fas fa-circle fa-stack-2x"></i>
 								<i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
@@ -41,7 +41,7 @@ window.addEventListener('DOMContentLoaded', () => {
 						</a>
 					</li>
      					<li class="list-inline-item">
-						<a href="https://www.instagram.com/morningtonballetschool/">
+						<a href="https://www.instagram.com/morningtonballetschool/" target="_blank" rel="noopener noreferrer">
 							<span class="fa-stack fa-lg">
 								<i class="fas fa-circle fa-stack-2x"></i>
 								<i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
@@ -49,7 +49,7 @@ window.addEventListener('DOMContentLoaded', () => {
 						</a>
 					</li>
      					<li class="list-inline-item">
-						<a href="https://www.tiktok.com/@mornington.ballet">
+						<a href="https://www.tiktok.com/@mornington.ballet" target="_blank" rel="noopener noreferrer">
 							<span class="fa-stack fa-lg">
 								<i class="fas fa-circle fa-stack-2x"></i>
 								<i class="fab fa-tiktok fa-stack-1x fa-inverse"></i>
