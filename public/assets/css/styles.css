@@ -616,6 +616,7 @@ header.masthead .site-heading .h1 {
 /*!
 * Mornington Ballet School specific styling. :)
 */
+
 div.container {
 	display:inline-block;
 }
@@ -636,4 +637,34 @@ h2, .h2 {
 
 h1, .h1 {
 	font-size: 7rem !important;
+}
+
+#timetable {
+	color: #8E859A;
+	border: solid;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#timetable-studio {
+	font-weight: bolder;
+	text-align: center;
+	min-width: 50%;
+}
+
+#timetable-day {
+	background-color: #9089CF;
+	color: white;
+	text-align: center;
+}
+
+#timetable-times {
+	min-width: 10%;
+	font-weight: bold;
+	border-left: solid;
+	padding-left: 0.5rem;
+}
+
+#timetable-notes {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #8E859A;
 }
