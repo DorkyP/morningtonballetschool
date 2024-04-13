@@ -668,3 +668,7 @@ h1, .h1 {
 	font-family: Arial, Helvetica, sans-serif;
 	color: #8E859A;
 }
+
+.teacher-image {
+	width:100%;
+}
